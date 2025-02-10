@@ -1,0 +1,18 @@
+************* Module computeSales
+computeSales.py:61:0: C0301: Line too long (101/100) (line-too-long)
+computeSales.py:1:0: C0103: Module name "computeSales" doesn't conform to snake_case naming style (invalid-name)
+computeSales.py:1:0: F0002: computeSales.py: Fatal error while checking 'computeSales.py'. Please open an issue in our bug tracker so we address this. There is a pre-filled template that you can use in '/Users/faridkrayem/Library/Caches/pylint/pylint-crash-2025-02-09-23-23-07.txt'. (astroid-error)
+
+-----------------------------------
+Your code has been rated at 0.00/10
+
+************* Module compute_sales
+compute_sales.py:1:0: F0002: compute_sales.py: Fatal error while checking 'compute_sales.py'. Please open an issue in our bug tracker so we address this. There is a pre-filled template that you can use in '/Users/faridkrayem/Library/Caches/pylint/pylint-crash-2025-02-09-23-25-53.txt'. (astroid-error)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 0.00/10, +10.00)
+
