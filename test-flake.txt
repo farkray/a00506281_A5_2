@@ -1,0 +1,37 @@
+computeSales.py:116:80: E501 line too long (83 > 79 characters)
+computeSales.py:142:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:05:43 CST
+computeSales.py:117:9: E122 continuation line missing indentation or outdented
+computeSales.py:118:5: E122 continuation line missing indentation or outdented
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:06:41 CST
+computeSales.py:117:80: E501 line too long (80 > 79 characters)
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:07:26 CST
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:07:54 CST
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:08:49 CST
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:10:15 CST
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:10:40 CST
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:11:24 CST
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:11:40 CST
+computeSales.py:141:1: E305 expected 2 blank lines after class or function definition, found 0
+computeSales.py:142:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:11:58 CST
+computeSales.py:141:1: W293 blank line contains whitespace
+computeSales.py:142:1: E305 expected 2 blank lines after class or function definition, found 1
+computeSales.py:143:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:12:08 CST
+computeSales.py:142:1: W293 blank line contains whitespace
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:12:41 CST
+computeSales.py:144:11: W292 no newline at end of file
+domingo,  9 de febrero de 2025, 23:14:19 CST
+
+-------------------
+
